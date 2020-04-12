@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/StartedService.iml" filepath="$PROJECT_DIR$/StartedService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StartedService-StartedService.iml" filepath="$PROJECT_DIR$/StartedService-StartedService.iml" group="StartedService" />
+      <module fileurl="file://$PROJECT_DIR$/app/StartedService-app.iml" filepath="$PROJECT_DIR$/app/StartedService-app.iml" group="StartedService/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

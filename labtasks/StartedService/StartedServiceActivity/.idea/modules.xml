@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/StartedService-StartedServiceActivity.iml" filepath="$PROJECT_DIR$/StartedService-StartedServiceActivity.iml" group="StartedServiceActivity" />
       <module fileurl="file://$PROJECT_DIR$/StartedServiceActivity.iml" filepath="$PROJECT_DIR$/StartedServiceActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/StartedServiceActivity-app.iml" filepath="$PROJECT_DIR$/app/StartedServiceActivity-app.iml" group="StartedServiceActivity/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
